@@ -195,6 +195,7 @@ a:hover, a:focus, a:active {
 }
 
 .carousel-text {
-  color: white;
-
+  color: #c0b283;
+  /* background-color: yellow; */
+  font-size: 40px;
 }
