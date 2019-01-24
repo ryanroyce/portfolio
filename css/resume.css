@@ -199,3 +199,7 @@ a:hover, a:focus, a:active {
   /* background-color: yellow; */
   font-size: 24px;
 }
+
+#alt-carousel {
+  color: black;
+}
